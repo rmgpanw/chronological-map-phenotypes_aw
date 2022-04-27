@@ -14,22 +14,22 @@ Hearing loss,2BM2.11,7085.0,O/E - conductive deafness,Diagnosis of Hearing loss
 Hearing loss,2BM3.11,7825.0,O/E - perceptive deafness,Diagnosis of Hearing loss
 Hearing loss,2DG..00,10170.0,Hearing aid worn,Diagnosis of Hearing loss
 Hearing loss,2DH0.00,47129.0,Uses hearing loop,Diagnosis of Hearing loss
-Hearing loss,7308400.0,84365.0,Placement of hearing implant in external ear,Procedure for Hearing loss
-Hearing loss,7308500.0,95814.0,Attention to hearing implant in external ear,Procedure for Hearing loss
-Hearing loss,7308600.0,96555.0,Removal of hearing implant from external ear,Procedure for Hearing loss
+Hearing loss,7308400,84365.0,Placement of hearing implant in external ear,Procedure for Hearing loss
+Hearing loss,7308500,95814.0,Attention to hearing implant in external ear,Procedure for Hearing loss
+Hearing loss,7308600,96555.0,Removal of hearing implant from external ear,Procedure for Hearing loss
 Hearing loss,7311A00,19694.0,Insertn bone anchors subcutaneous bone anchored hearing aid,Procedure for Hearing loss
 Hearing loss,7317C00,68636.0,Placement of hearing implant in middle ear,Procedure for Hearing loss
 Hearing loss,7317D00,93446.0,Attention to hearing implant in middle ear,Procedure for Hearing loss
 Hearing loss,7317.00,100449.0,Removal of hearing implant from middle ear,Procedure for Hearing loss
-Hearing loss,7319000.0,97657.0,Insertion fixtures bone anchored hearing prosthesis Stage 1,Procedure for Hearing loss
-Hearing loss,7319100.0,89253.0,Insertion fixtures bone anchored hearing prosthesis Stage 2,Procedure for Hearing loss
-Hearing loss,7319200.0,91930.0,Reduction soft tissue for bone anchored hearing prosthesis,Procedure for Hearing loss
-Hearing loss,7319300.0,97761.0,Attention to fixtures for bone anchored hearing prosthesis,Procedure for Hearing loss
-Hearing loss,7319400.0,93278.0,One stage insert fixtures bone anchored hearing prosthesis,Procedure for Hearing loss
-Hearing loss,7319500.0,101755.0,Fitting external hearing prosthesis bone anchored fixtures,Procedure for Hearing loss
-Hearing loss,7319600.0,108029.0,First stge ins fixtures for bone anchored hearing prosthesis,Procedure for Hearing loss
+Hearing loss,7319000,97657.0,Insertion fixtures bone anchored hearing prosthesis Stage 1,Procedure for Hearing loss
+Hearing loss,7319100,89253.0,Insertion fixtures bone anchored hearing prosthesis Stage 2,Procedure for Hearing loss
+Hearing loss,7319200,91930.0,Reduction soft tissue for bone anchored hearing prosthesis,Procedure for Hearing loss
+Hearing loss,7319300,97761.0,Attention to fixtures for bone anchored hearing prosthesis,Procedure for Hearing loss
+Hearing loss,7319400,93278.0,One stage insert fixtures bone anchored hearing prosthesis,Procedure for Hearing loss
+Hearing loss,7319500,101755.0,Fitting external hearing prosthesis bone anchored fixtures,Procedure for Hearing loss
+Hearing loss,7319600,108029.0,First stge ins fixtures for bone anchored hearing prosthesis,Procedure for Hearing loss
 Hearing loss,7319.00,59392.0,Attachment of bone anchored hearing prosthesis,Procedure for Hearing loss
-Hearing loss,7319700.0,108030.0,Second stage ins fixtures for bone anchored hearing prosth,Procedure for Hearing loss
+Hearing loss,7319700,108030.0,Second stage ins fixtures for bone anchored hearing prosth,Procedure for Hearing loss
 Hearing loss,7319y00,98553.0,Other specified attachment bone anchored hearing prosthesis,Procedure for Hearing loss
 Hearing loss,7319z00,98241.0,Attachment of bone anchored hearing prosthesis NOS,Procedure for Hearing loss
 Hearing loss,8D21.00,58602.0,Provide head worn hearing aid,Diagnosis of Hearing loss
