@@ -1,7 +1,7 @@
 Disease,Readcode,Medcode,ReadcodeDescr,Category
-Spina bifida,7010111.0,98265.0,Insertion of Halber valve for spina bifida,Procedure for Spina bifida
-Spina bifida,7043100.0,5307.0,Closure of spinal myelomeningocele,Procedure for Spina bifida
-Spina bifida,7043200.0,29633.0,Closure of spinal meningocele,Procedure for Spina bifida
+Spina bifida,7010111,98265.0,Insertion of Halber valve for spina bifida,Procedure for Spina bifida
+Spina bifida,7043100,5307.0,Closure of spinal myelomeningocele,Procedure for Spina bifida
+Spina bifida,7043200,29633.0,Closure of spinal meningocele,Procedure for Spina bifida
 Spina bifida,7043.00,9298.0,Repair of spina bifida,Procedure for Spina bifida
 Spina bifida,7043y00,50672.0,Other specified repair of spina bifida,Procedure for Spina bifida
 Spina bifida,7043z00,62742.0,Repair of spina bifida NOS,Procedure for Spina bifida
