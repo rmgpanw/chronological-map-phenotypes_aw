@@ -1,5 +1,5 @@
 Disease,Readcode,Medcode,ReadcodeDescr,Category
-Primary Malignancy_Prostate,1427000.0,102314.0,H/O: prostate cancer,History of Primary Malignancy_Prostate
+Primary Malignancy_Prostate,1427000,102314.0,H/O: prostate cancer,History of Primary Malignancy_Prostate
 Primary Malignancy_Prostate,4M00.00,18503.0,Gleason prostate grade 2-4 (low),Diagnosis of Primary Malignancy_Prostate
 Primary Malignancy_Prostate,4M01.00,18612.0,Gleason prostate grade 5-7 (medium),Diagnosis of Primary Malignancy_Prostate
 Primary Malignancy_Prostate,4M02.00,26081.0,Gleason prostate grade 8-10 (high),Diagnosis of Primary Malignancy_Prostate
