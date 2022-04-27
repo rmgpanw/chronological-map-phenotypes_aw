@@ -14,26 +14,26 @@ Obesity,66C..00,11461.0,Obesity monitoring,History of Obesity
 Obesity,66CE.00,17444.0,Reason for obesity therapy - occupational,Diagnosis of Obesity
 Obesity,66CZ.00,40153.0,Obesity monitoring NOS,History of Obesity
 Obesity,7633.00,39123.0,Bypass of jejunum,Procedure for Obesity
-Obesity,7611400.0,93378.0,Sleeve gastrectomy and duodenal switch,Procedure for Obesity
-Obesity,7611500.0,89259.0,Sleeve gastrectomy NEC,Procedure for Obesity
-Obesity,7611600.0,89148.0,Laparoscopic sleeve gastrectomy,Procedure for Obesity
-Obesity,7613100.0,34119.0,Partitioning of stomach,Procedure for Obesity
-Obesity,7613111.0,59622.0,Mason vertical banded gastroplasty,Procedure for Obesity
-Obesity,7613200.0,18863.0,Laparoscopic adjustable gastric banding,Procedure for Obesity
-Obesity,7613300.0,88474.0,Partitioning of stomach using band,Procedure for Obesity
-Obesity,7613400.0,56926.0,Partitioning of stomach using staples,Procedure for Obesity
-Obesity,7613500.0,90600.0,Partitioning of stomach NEC,Procedure for Obesity
-Obesity,7613600.0,97691.0,Maintenance of gastric band,Procedure for Obesity
-Obesity,7614100.0,40977.0,Bypass of stomach by anastomosis of stomach to duodenum,Procedure for Obesity
-Obesity,7615000.0,39797.0,Bypass stomach by anastomosis stomach to transposed jejunum,Procedure for Obesity
-Obesity,7616000.0,7082.0,Bypass of stomach by anastomosis of stomach to jejunum NEC,Procedure for Obesity
-Obesity,7616013.0,92957.0,Mason high gastric bypass,Procedure for Obesity
-Obesity,7616015.0,48417.0,Printer high gastric bypass,Procedure for Obesity
-Obesity,7616600.0,95929.0,Laparoscopic gastric bypass,Procedure for Obesity
-Obesity,7633000.0,56107.0,Bypass of jejunum by anastomosis of jejunum to jejunum,Procedure for Obesity
-Obesity,7633100.0,19929.0,Bypass of jejunum by anastomosis of jejunum to ileum,Procedure for Obesity
-Obesity,7633200.0,62848.0,Bypass of jejunum by anastomosis of jejunum to colon,Procedure for Obesity
-Obesity,7642500.0,90517.0,Duodenal switch,Procedure for Obesity
+Obesity,7611400,93378.0,Sleeve gastrectomy and duodenal switch,Procedure for Obesity
+Obesity,7611500,89259.0,Sleeve gastrectomy NEC,Procedure for Obesity
+Obesity,7611600,89148.0,Laparoscopic sleeve gastrectomy,Procedure for Obesity
+Obesity,7613100,34119.0,Partitioning of stomach,Procedure for Obesity
+Obesity,7613111,59622.0,Mason vertical banded gastroplasty,Procedure for Obesity
+Obesity,7613200,18863.0,Laparoscopic adjustable gastric banding,Procedure for Obesity
+Obesity,7613300,88474.0,Partitioning of stomach using band,Procedure for Obesity
+Obesity,7613400,56926.0,Partitioning of stomach using staples,Procedure for Obesity
+Obesity,7613500,90600.0,Partitioning of stomach NEC,Procedure for Obesity
+Obesity,7613600,97691.0,Maintenance of gastric band,Procedure for Obesity
+Obesity,7614100,40977.0,Bypass of stomach by anastomosis of stomach to duodenum,Procedure for Obesity
+Obesity,7615000,39797.0,Bypass stomach by anastomosis stomach to transposed jejunum,Procedure for Obesity
+Obesity,7616000,7082.0,Bypass of stomach by anastomosis of stomach to jejunum NEC,Procedure for Obesity
+Obesity,7616013,92957.0,Mason high gastric bypass,Procedure for Obesity
+Obesity,7616015,48417.0,Printer high gastric bypass,Procedure for Obesity
+Obesity,7616600,95929.0,Laparoscopic gastric bypass,Procedure for Obesity
+Obesity,7633000,56107.0,Bypass of jejunum by anastomosis of jejunum to jejunum,Procedure for Obesity
+Obesity,7633100,19929.0,Bypass of jejunum by anastomosis of jejunum to ileum,Procedure for Obesity
+Obesity,7633200,62848.0,Bypass of jejunum by anastomosis of jejunum to colon,Procedure for Obesity
+Obesity,7642500,90517.0,Duodenal switch,Procedure for Obesity
 Obesity,761A500,90454.0,Removal of gastric band,Procedure for Obesity
 Obesity,7633y00,64123.0,Other specified bypass of jejunum,Procedure for Obesity
 Obesity,7633z00,60421.0,Bypass of jejunum NOS,Procedure for Obesity
