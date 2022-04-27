@@ -1,6 +1,6 @@
 Disease,Readcode,Medcode,ReadcodeDescr,Category
 Intracerebral haemorrhage,662o.00,28914.0,Haemorrhagic stroke monitoring,History of Intracerebral haemorrhage
-Intracerebral haemorrhage,7004300.0,7017.0,Evacuation of intracerebral haematoma NEC,Diagnosis of Intracerebral haemorrhage
+Intracerebral haemorrhage,7004300,7017.0,Evacuation of intracerebral haematoma NEC,Diagnosis of Intracerebral haemorrhage
 Intracerebral haemorrhage,G610.00,31595.0,Cortical haemorrhage,Diagnosis of Intracerebral haemorrhage
 Intracerebral haemorrhage,G611.00,40338.0,Internal capsule haemorrhage,Diagnosis of Intracerebral haemorrhage
 Intracerebral haemorrhage,G612.00,46316.0,Basal nucleus haemorrhage,Diagnosis of Intracerebral haemorrhage
