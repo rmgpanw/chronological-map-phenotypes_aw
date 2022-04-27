@@ -1,13 +1,13 @@
 Disease,Readcode,Medcode,ReadcodeDescr,Category
-Peritonitis,7618100.0,39496.0,Closure of perforation of stomach NEC,Procedure for Peritonitis
+Peritonitis,7618100,39496.0,Closure of perforation of stomach NEC,Procedure for Peritonitis
 Peritonitis,761C100,47725.0,Repair of perforation of pylorus,Procedure for Peritonitis
 Peritonitis,761J000,20677.0,Closure of perforated gastric ulcer,Procedure for Peritonitis
-Peritonitis,7623100.0,27955.0,Closure of perforation of duodenum NEC,Procedure for Peritonitis
-Peritonitis,7627000.0,4741.0,Closure of perforated duodenal ulcer,Procedure for Peritonitis
-Peritonitis,7635200.0,49392.0,Closure of perforation of jejunum,Procedure for Peritonitis
-Peritonitis,7648300.0,41256.0,Closure of perforation of ileum,Procedure for Peritonitis
+Peritonitis,7623100,27955.0,Closure of perforation of duodenum NEC,Procedure for Peritonitis
+Peritonitis,7627000,4741.0,Closure of perforated duodenal ulcer,Procedure for Peritonitis
+Peritonitis,7635200,49392.0,Closure of perforation of jejunum,Procedure for Peritonitis
+Peritonitis,7648300,41256.0,Closure of perforation of ileum,Procedure for Peritonitis
 Peritonitis,773C600,16642.0,Closure of perforated bowel ulcer NEC,Procedure for Peritonitis
-Peritonitis,7812200.0,50881.0,Repair of perforation of gall bladder,Procedure for Peritonitis
+Peritonitis,7812200,50881.0,Repair of perforation of gall bladder,Procedure for Peritonitis
 Peritonitis,A140.00,31409.0,Tuberculous peritonitis,Diagnosis of Peritonitis
 Peritonitis,A32y200,58070.0,Diphtheritic peritonitis,Diagnosis of Peritonitis
 Peritonitis,A98y500,39736.0,Gonococcal peritonitis,Diagnosis of Peritonitis
