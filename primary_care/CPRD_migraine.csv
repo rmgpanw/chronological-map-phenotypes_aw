@@ -1,5 +1,5 @@
 Disease,Readcode,Medcode,ReadcodeDescr,Category
-Migraine,1474000.0,103451.0,H/O migraine with aura,History of Migraine
+Migraine,1474000,103451.0,H/O migraine with aura,History of Migraine
 Migraine,1474.00,5029.0,H/O: migraine,History of Migraine
 Migraine,8B6N.00,11389.0,Migraine prophylaxis,History of Migraine
 Migraine,F260.00,3220.0,Classical migraine,Diagnosis of Migraine
