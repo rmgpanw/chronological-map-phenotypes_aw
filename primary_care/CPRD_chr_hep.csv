@@ -1,7 +1,7 @@
 Disease,Readcode,Medcode,ReadcodeDescr,Category
 Chronic viral hepatitis,141E.00,30729.0,History of hepatitis B,History of Chronic viral hepatitis
 Chronic viral hepatitis,14i..00,104277.0,H/O hepatitis C antiviral drug therapy,History of Chronic viral hepatitis
-Chronic viral hepatitis,2126700.0,102372.0,Hepatitis C resolved,History of Chronic viral hepatitis
+Chronic viral hepatitis,2126700,102372.0,Hepatitis C resolved,History of Chronic viral hepatitis
 Chronic viral hepatitis,43B4.00,27175.0,Hepatitis B surface antig +ve,Diagnosis of Chronic viral hepatitis
 Chronic viral hepatitis,43B5.00,27174.0,Hepatitis e antigen present,Diagnosis of Chronic viral hepatitis
 Chronic viral hepatitis,43j5.00,27191.0,Hepatitis C nucleic acid detection,Diagnosis of Chronic viral hepatitis
