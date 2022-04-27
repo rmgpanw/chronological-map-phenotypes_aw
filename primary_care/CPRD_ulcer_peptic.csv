@@ -2,8 +2,8 @@ Disease,Readcode,Medcode,ReadcodeDescr,Category
 Peptic ulcer disease,14C1.00,2812.0,H/O: peptic ulcer,History of Peptic ulcer disease
 Peptic ulcer disease,14C1.11,6321.0,H/O: duodenal ulcer,History of Peptic ulcer disease
 Peptic ulcer disease,14C1.12,7108.0,H/O: gastric ulcer,History of Peptic ulcer disease
-Peptic ulcer disease,7612111.0,92695.0,Balfour excision of gastric ulcer,Procedure for Peptic ulcer disease
-Peptic ulcer disease,7612500.0,64710.0,Resection of gastric ulcer by cautery,Procedure for Peptic ulcer disease
+Peptic ulcer disease,7612111,92695.0,Balfour excision of gastric ulcer,Procedure for Peptic ulcer disease
+Peptic ulcer disease,7612500,64710.0,Resection of gastric ulcer by cautery,Procedure for Peptic ulcer disease
 Peptic ulcer disease,761D500,45981.0,Endoscopic injection haemostasis of duodenal ulcer,Procedure for Peptic ulcer disease
 Peptic ulcer disease,761D600,63718.0,Endoscopic injection haemostasis of gastric ulcer,Procedure for Peptic ulcer disease
 Peptic ulcer disease,761J000,20677.0,Closure of perforated gastric ulcer,Procedure for Peptic ulcer disease
@@ -13,9 +13,9 @@ Peptic ulcer disease,761J.00,23688.0,Operations on gastric ulcer,Procedure for P
 Peptic ulcer disease,761J.11,6865.0,Stomach ulcer operations,Procedure for Peptic ulcer disease
 Peptic ulcer disease,761Jy00,94104.0,Other specified operation on gastric ulcer,Procedure for Peptic ulcer disease
 Peptic ulcer disease,761Jz00,33914.0,Operation on gastric ulcer NOS,Procedure for Peptic ulcer disease
-Peptic ulcer disease,7627000.0,4741.0,Closure of perforated duodenal ulcer,Procedure for Peptic ulcer disease
-Peptic ulcer disease,7627100.0,37268.0,Suture of duodenal ulcer not elsewhere classified,Procedure for Peptic ulcer disease
-Peptic ulcer disease,7627200.0,55350.0,Oversew of blood vessel of duodenal ulcer,Procedure for Peptic ulcer disease
+Peptic ulcer disease,7627000,4741.0,Closure of perforated duodenal ulcer,Procedure for Peptic ulcer disease
+Peptic ulcer disease,7627100,37268.0,Suture of duodenal ulcer not elsewhere classified,Procedure for Peptic ulcer disease
+Peptic ulcer disease,7627200,55350.0,Oversew of blood vessel of duodenal ulcer,Procedure for Peptic ulcer disease
 Peptic ulcer disease,7627.00,5928.0,Operations on duodenal ulcer,Procedure for Peptic ulcer disease
 Peptic ulcer disease,7627y00,56005.0,Other specified operation on duodenal ulcer,Procedure for Peptic ulcer disease
 Peptic ulcer disease,7627z00,55933.0,Operation on duodenal ulcer NOS,Procedure for Peptic ulcer disease
