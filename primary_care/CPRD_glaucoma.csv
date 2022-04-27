@@ -1,9 +1,9 @@
 Disease,Readcode,Medcode,ReadcodeDescr,Category
-Glaucoma,7259000.0,65079.0,Needling of bleb following glaucoma surgery,Diagnosis of glaucoma
-Glaucoma,7259100.0,89934.0,Injection of bleb following glaucoma surgery,Diagnosis of glaucoma
-Glaucoma,7259200.0,88595.0,Revision of bleb NEC following glaucoma surgery,Diagnosis of glaucoma
-Glaucoma,7259300.0,91442.0,Removal of releasable suture following glaucoma surgery,Diagnosis of glaucoma
-Glaucoma,7259400.0,93967.0,Laser suture lysis following glaucoma surgery,Diagnosis of glaucoma
+Glaucoma,7259000,65079.0,Needling of bleb following glaucoma surgery,Diagnosis of glaucoma
+Glaucoma,7259100,89934.0,Injection of bleb following glaucoma surgery,Diagnosis of glaucoma
+Glaucoma,7259200,88595.0,Revision of bleb NEC following glaucoma surgery,Diagnosis of glaucoma
+Glaucoma,7259300,91442.0,Removal of releasable suture following glaucoma surgery,Diagnosis of glaucoma
+Glaucoma,7259400,93967.0,Laser suture lysis following glaucoma surgery,Diagnosis of glaucoma
 Glaucoma,7259.00,46069.0,Operations following glaucoma surgery,Diagnosis of glaucoma
 Glaucoma,7259y00,88142.0,Other specified operations following glaucoma surgery,Diagnosis of glaucoma
 Glaucoma,7259z00,95852.0,Operations following glaucoma surgery NOS,Diagnosis of glaucoma
