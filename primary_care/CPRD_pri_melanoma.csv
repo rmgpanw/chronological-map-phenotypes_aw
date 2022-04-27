@@ -1,5 +1,5 @@
 Disease,Readcode,Medcode,ReadcodeDescr,Category
-Primary Malignancy_Malignant Melanoma,1425000.0,7761.0,H/O Malignant melanoma,History of Primary Malignancy_Malignant Melanoma
+Primary Malignancy_Malignant Melanoma,1425000,7761.0,H/O Malignant melanoma,History of Primary Malignancy_Malignant Melanoma
 Primary Malignancy_Malignant Melanoma,4M3..00,57294.0,Breslow depth staging for melanoma,Diagnosis of Primary Malignancy_Malignant Melanoma
 Primary Malignancy_Malignant Melanoma,4M70.00,101198.0,Clark melanoma level 1,Diagnosis of Primary Malignancy_Malignant Melanoma
 Primary Malignancy_Malignant Melanoma,4M71.00,104609.0,Clark melanoma level 2,Diagnosis of Primary Malignancy_Malignant Melanoma
