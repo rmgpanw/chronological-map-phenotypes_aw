@@ -2,7 +2,7 @@ Disease,Readcode,Medcode,ReadcodeDescr,Category
 Epilepsy,1473.00,3783.0,H/O: epilepsy,History of Epilepsy
 Epilepsy,1B1W.00,38919.0,Transient epileptic amnesia,History of Epilepsy
 Epilepsy,1O30.00,22341.0,Epilepsy confirmed,Diagnosis of Epilepsy
-Epilepsy,2126000.0,8385.0,Epilepsy resolved,History of Epilepsy
+Epilepsy,2126000,8385.0,Epilepsy resolved,History of Epilepsy
 Epilepsy,212J.00,12848.0,Epilepsy resolved,History of Epilepsy
 Epilepsy,6110.00,100652.0,Contraceptive advice for patients with epilepsy,History of Epilepsy
 Epilepsy,6674.00,50012.0,Epilepsy associated problems,History of Epilepsy
