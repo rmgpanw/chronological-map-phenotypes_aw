@@ -1,7 +1,7 @@
 Disease,Readcode,Medcode,ReadcodeDescr,Category
 Retinal detachments and breaks,1481.00,8691.0,H/O: retinal detachment,History of retinal detachment
-Retinal detachments and breaks,7271000.0,50694.0,Xenon photocoagulation of retina for detachment,Diagnosis of retinal detachment
-Retinal detachments and breaks,7271100.0,6836.0,Laser photocoagulation of retina for detachment,Diagnosis of retinal detachment
+Retinal detachments and breaks,7271000,50694.0,Xenon photocoagulation of retina for detachment,Diagnosis of retinal detachment
+Retinal detachments and breaks,7271100,6836.0,Laser photocoagulation of retina for detachment,Diagnosis of retinal detachment
 Retinal detachments and breaks,7271.00,2484.0,Photocoagulation of retina for detachment,Diagnosis of retinal detachment
 Retinal detachments and breaks,7271y00,1551.0,Other specified photocoagulation of retina for detachment,Diagnosis of retinal detachment
 Retinal detachments and breaks,7271z00,1552.0,Photocoagulation of retina for detachment NOS,Diagnosis of retinal detachment
